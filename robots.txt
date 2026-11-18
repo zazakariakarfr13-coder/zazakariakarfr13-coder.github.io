@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zazakariakarfr13-coder.github.io/supermarket-decoder/sitemap.xml
